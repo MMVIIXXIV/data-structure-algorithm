@@ -1,7 +1,8 @@
 ### Quick Sort:
 
 -Time Complexity: Average-case time complexity is O(n log n), but worst-case time complexity is O(n^2).
-however Quick Sort is pretty fast and efficient in practical scenarios the worst-case running time of Quick Sort is almost always avoided by using what we call a randomized version of Quick Sort
+however Quick Sort is pretty fast and efficient in practical scenarios the worst-case running time of Quick Sort is almost always avoided by using what we call a randomized version of Quick Sort.
+
 -Space Complexity: Quick Sort is an in-place sorting algorithm, meaning it requires only a small amount of additional memory beyond the input list itself.
 
 
