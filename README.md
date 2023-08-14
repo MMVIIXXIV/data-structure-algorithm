@@ -5,32 +5,33 @@ Welcome to my main repository that contains implementations of various algorithm
 ## Algorithms
 
 ### Binary Search Tree (BST)
-- [BST Implementation](/binary-search-tree)
+- [BST Implementation](/WEEK%206/binary-search-tree)
 - Description: Contains an implementation of a Binary Search Tree (BST) along with explanations of its operations and time complexity.
 
 ### Hash Table
-- [Hash Table Implementation](/hash-table)
+- [Hash Table Implementation](/WEEK%205/hash-table)
 - Description: Includes an implementation of a Hash Table along with details about how it works, operations, and time complexity.
 
 ### Merge Sort
-- [Merge Sort Implementation](/merge-sort)
+- [Merge Sort Implementation](/WEEK%202/merge-sort)
 - Description: Provides an implementation of the Merge Sort algorithm along with its workings, complexity, and advantages.
 
 ### QuickSort
-- [QuickSort Implementation](/quicksort)
+- [QuickSort Implementation](/WEEK%204/quicksort)
 - Description: Features an implementation of the QuickSort algorithm, explaining its process, time complexity, and use cases.
 
 ### Red-Black Tree
-- [Red-Black Tree Implementation](/WEEK 7)
+- [Red-Black Tree Implementation](/WEEK%207/red-black-tree)
 - Description: Presents an implementation of the Red-Black Tree data structure, including its properties, insertion, and time complexity.
 
 ### Heap Sort
-- [Heap Sort Implementation](/WEEK 3)
+- [Heap Sort Implementation](/WEEK%203/heap-sort)
 - Description: Contains an implementation of the Heap Sort algorithm along with its steps, time complexity, and applications.
 
 ## Data Structures
-### Coming Soon
-## Other Files
+
+### COMING SOON. . . 
+ 
 
 ### [LICENSE](/LICENSE)
 - Description: The license information for the code in this repository.
