@@ -1,4 +1,4 @@
-###Time Complexity of the algorithmn
+#Time Complexity of the algorithmn
  
  
  The time complexity of various operations in a hash table implementation with chaining depends on several factors, including the size of the hash table (table_size), the number of elements (n) stored in the hash table, and the distribution of keys and values. Here's a breakdown of the time complexity for each operation:
