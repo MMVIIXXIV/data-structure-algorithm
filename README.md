@@ -21,11 +21,11 @@ Welcome to my main repository that contains implementations of various algorithm
 - Description: Features an implementation of the QuickSort algorithm, explaining its process, time complexity, and use cases.
 
 ### Red-Black Tree
-- [Red-Black Tree Implementation](/red-black-tree)
+- [Red-Black Tree Implementation](/WEEK 7)
 - Description: Presents an implementation of the Red-Black Tree data structure, including its properties, insertion, and time complexity.
 
 ### Heap Sort
-- [Heap Sort Implementation](/WEEK-3)
+- [Heap Sort Implementation](/WEEK 3)
 - Description: Contains an implementation of the Heap Sort algorithm along with its steps, time complexity, and applications.
 
 ## Data Structures
