@@ -13,7 +13,7 @@ Welcome to my main repository that contains implementations of various algorithm
 - Description: Includes an implementation of a Hash Table along with details about how it works, operations, and time complexity.
 
 ### Merge Sort
-- [Merge Sort Implementation](/WEEK%202/ )
+- [Merge Sort Implementation](/Week%202 )
 - Description: Provides an implementation of the Merge Sort algorithm along with its workings, complexity, and advantages.
 
 ### QuickSort
