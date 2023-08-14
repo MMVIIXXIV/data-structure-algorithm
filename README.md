@@ -1,6 +1,47 @@
-# data-structure-algorithm
-COURSES MATERAILS FROM DATA STRUCTURE AND ALGORHMNS COURSE.
+# Main Repository
 
+Welcome to my main repository that contains implementations of various algorithms and data structures. This repository serves as a collection of the concepts I've learned during my studies at school and beyond.
 
-Most of the materials are for testing.(big 0) [time time complexity mainly]
-Self folders often contains code with explanation
+## Algorithms
+
+### Binary Search Tree (BST)
+- [BST Implementation](/binary-search-tree)
+- Description: Contains an implementation of a Binary Search Tree (BST) along with explanations of its operations and time complexity.
+
+### Hash Table
+- [Hash Table Implementation](/hash-table)
+- Description: Includes an implementation of a Hash Table along with details about how it works, operations, and time complexity.
+
+### Merge Sort
+- [Merge Sort Implementation](/merge-sort)
+- Description: Provides an implementation of the Merge Sort algorithm along with its workings, complexity, and advantages.
+
+### QuickSort
+- [QuickSort Implementation](/quicksort)
+- Description: Features an implementation of the QuickSort algorithm, explaining its process, time complexity, and use cases.
+
+### Red-Black Tree
+- [Red-Black Tree Implementation](/red-black-tree)
+- Description: Presents an implementation of the Red-Black Tree data structure, including its properties, insertion, and time complexity.
+
+### Heap Sort
+- [Heap Sort Implementation](/WEEK-3)
+- Description: Contains an implementation of the Heap Sort algorithm along with its steps, time complexity, and applications.
+
+## Data Structures
+### Coming Soon
+## Other Files
+
+### [LICENSE](/LICENSE)
+- Description: The license information for the code in this repository.
+
+### [CONTRIBUTING.md](/CONTRIBUTING.md)
+- Description: Guidelines for contributing to this repository, if open for contributions.
+
+### [README.md](/README.md)
+- Description: You are here! This main repository README provides an overview of the repository's contents.
+
+Feel free to explore each subdirectory for detailed implementations and explanations. I hope this repository helps you better understand and apply various algorithms and data structures.
+
+---
+*Note: This README provides an overview of the main repository and its contents. For detailed implementation examples and explanations, refer to the provided subdirectories.*
