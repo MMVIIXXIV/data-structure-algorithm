@@ -32,15 +32,7 @@ Welcome to my main repository that contains implementations of various algorithm
 
 ### COMING SOON. . . 
  
-
-### [LICENSE](/LICENSE)
-- Description: The license information for the code in this repository.
-
-### [CONTRIBUTING.md](/CONTRIBUTING.md)
-- Description: Guidelines for contributing to this repository, if open for contributions.
-
-### [README.md](/README.md)
-- Description: You are here! This main repository README provides an overview of the repository's contents.
+ 
 
 Feel free to explore each subdirectory for detailed implementations and explanations. I hope this repository helps you better understand and apply various algorithms and data structures.
 
