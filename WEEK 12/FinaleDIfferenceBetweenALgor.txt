@@ -1,0 +1,26 @@
+'''Prim's Algorithm:
+
+Best Use Case: Prim's algorithm is generally considered the best choice when you have a dense graph or when you are dealing with a graph represented as an adjacency matrix.
+Time Complexity: Prim's algorithm has a time complexity of O(V^2) with an adjacency matrix or O(E + V log V) with an efficient priority queue data structure like a binary heap or a Fibonacci heap.
+Advantages: It's easy to implement and is often more efficient for dense graphs.
+
+
+
+
+
+Dijkstra's Algorithm:
+
+Best Use Case: Dijkstra's algorithm is best suited for finding the shortest path in a weighted graph from a single source vertex to all other vertices. It can also be adapted for MST, but it's not the most efficient choice.
+Time Complexity: Dijkstra's algorithm has a time complexity of O(E + V log V) with a priority queue.
+Advantages: If you already have a weighted graph and need both MST and shortest path information, you can use Dijkstra's algorithm for both tasks.
+
+\\\
+
+]\\
+
+Kruskal's Algorithm:
+
+Best Use Case: Kruskal's algorithm is often the preferred choice for finding MSTs in graphs with a large number of edges or when the graph is sparse.
+Time Complexity: Kruskal's algorithm has a time complexity of O(E log E) with a sorting step.
+Advantages: It's straightforward to implement and works well for graphs with a large number of edges. It also has the advantage of not needing a specific starting vertex.'''
+ 
